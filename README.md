@@ -8,7 +8,7 @@
 npm install -g xcx-tool
 ```
 
-### git clone 整个工程，根据实际场景修改tool使得符合自己的项目要求
+### 或者git clone 整个工程，根据实际场景修改tool使得符合自己的项目要求
 ```
 git clone git@github.com:christal1994/xcx-tool.git
 ```
