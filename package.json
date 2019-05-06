@@ -7,9 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/christal1994/xcx-tool"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christal1994/xcx-tool"
   },
   "keywords": [
     "wechat",
